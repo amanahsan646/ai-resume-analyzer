@@ -3,4 +3,3 @@ openai
 PyPDF2
 python-docx
 pandas
-reportlab
